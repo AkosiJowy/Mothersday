@@ -24,13 +24,24 @@ h2 {
   z-index: 1000;
   margin: 0;
 }
-
+h3 {
+  position: relative;
+  text-align: center;
+  font-family: 'Poiret One', 'Oleo Script', cursive;
+  text-shadow: 1px 1px 1px rgba(77, 77, 77, 0.5);
+  z-index: 1000;
+  margin: 0;
+}
 h1 {
   margin-top: 4.5rem;
   font-size: 8vw;
 }
 
 h2 {
+  font-size: 6vw;
+  font-family: 'Oleo Script', cursive;
+}
+h3 {
   font-size: 6vw;
   font-family: 'Oleo Script', cursive;
 }
